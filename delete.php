@@ -10,7 +10,7 @@ if(isset($_SERVER['REQUEST_METHOD']) && $_SERVER['REQUEST_METHOD'] == 'GET'){
 
         header('location:index.php');
     }
-} ///comment
+} ///comment from amr
 ?>
 
 
